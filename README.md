@@ -79,7 +79,7 @@ For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.o
 | Item        | Description                                                                                                                                                |
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Files       | See below                                                                                                                                                  |
-| Source      | Provided by Bath & North East Somerset Council                                                                                                             |
+| Source      | Provided by [Bath & North East Somerset Council](http://www.bathnes.gov.uk/)                                                                               |
 | Retrieved   | 2016-01                                                                                                                                                    |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                                           |
 | Attribution | **(Mandatory)** Contains OS data &copy; Crown copyright and database right \[year\]<br>**(Mandatory)** Data provided by Bath & North East Somerset Council |
