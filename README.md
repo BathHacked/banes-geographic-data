@@ -50,7 +50,7 @@ Where needed, all files were subsetted (clipped) to the area of Bath & North Eas
 
 ## Spatial Reference System
 
-All files use the WGS 84 / EPSG:4326 spatial reference system. This is to provided maximum compatibility with common web-based mapping tools.
+All files use the WGS 84 / EPSG:4326 spatial reference system. This is to provide maximum compatibility with common web-based mapping tools.
 
 ## Licencing & Attribution
 
@@ -66,7 +66,7 @@ The files provided in this repository are intended for use with web-based mappin
 
 Some recommended web tools include [CartoDB](https://cartodb.com/), [Mapbox](https://www.mapbox.com/), [Leaflet](http://leafletjs.com/), [OpenLayers](http://openlayers.org/), [Google Maps](https://www.google.co.uk/maps).
 
-For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.org/en/site/) software. It is tremendously pwoerful & available many platforms.
+For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.org/en/site/) software. It is tremendously powerful & available for many platforms.
 
 ## Data Sources & Files
 
@@ -334,7 +334,7 @@ Statistics on relative deprivation in small areas in BANES. For full description
 
 | Item        | Description                                                                                                     |
 |:------------|:----------------------------------------------------------------------------------------------------------------|
-| Files       | See above                                                                                                       |
+| Files       | See below                                                                                                       |
 | Source      | [OS Open Map - Local](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-map-local.html) |
 | Retrieved   | 2016-01-21                                                                                                      |
 | Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                                    |
