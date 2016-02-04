@@ -56,6 +56,10 @@ All files use the WGS 84 / EPSG:4326 spatial reference system. This is to provid
 
 Where attribution is marked as **Mandatory** you **must** display the relevant attribution prominently alongside your use of the data. Typically by overlaying on a map or, where impractical, via a prominent link.
 
+Where attribution is marked as **Optional** we strongly encourage you to include the attribution. It's only fair to credit the source.
+
+For bonus points we'd like it if you'd add a **"Powered by Bath: Hacked"** attribution.
+
 While we have endeavoured to provide consistent & accurate information about licencing & attribution of the data, we advise that you perform your own checks & due diligence in using the data, especially if you use the data commercially. Your use of this data is at your own risk.
 
 We believe to the best of our knowledge that all data can be published as open data. If you believe that we have made an error please contact us immediately to remedy the situation.
@@ -72,13 +76,13 @@ For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.o
 
 ### Bath & North East Somerset Council
 
-| Item        | Description                                                                                                                                           |
-|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Files       | See below                                                                                                                                             |
-| Source      | Provided by Bath & North East Somerset Council                                                                                                        |
-| Retrieved   | 2016-01                                                                                                                                               |
-| Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                                      |
-| Attribution | **(Mandatory)** Contains OS data &copy; Crown copyright and database right \[year\]<br>(Optional) Data provided by Bath & North East Somerset Council |
+| Item        | Description                                                                                                                                                |
+|:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Files       | See below                                                                                                                                                  |
+| Source      | Provided by Bath & North East Somerset Council                                                                                                             |
+| Retrieved   | 2016-01                                                                                                                                                    |
+| Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                                           |
+| Attribution | **(Mandatory)** Contains OS data &copy; Crown copyright and database right \[year\]<br>**(Mandatory)** Data provided by Bath & North East Somerset Council |
 
 | File                                   | Description                          |
 |:---------------------------------------|:-------------------------------------|
