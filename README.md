@@ -8,22 +8,26 @@
 - [Spatial Reference System](#spatial-reference-system)
 - [Licencing & Attribution](#licencing-attribution)
 - [How To Use These Files](#how-to-use-these-files)
-- [Data Sources & Files](#data-sources--files)
-	- [Bath & North East Somerset Council](#bath--north-east-somerset-council)
-	- [Department for Communities & Local Government](#department-for-communities--local-government)
+- [Data Sources & Files](#data-sources-files)
+	- [Bath & North East Somerset Council](#bath-north-east-somerset-council)
+	- [Department for Communities & Local Government](#department-for-communities-local-government)
 		- [Green Belt boundaries for England 2013-2014](#green-belt-boundaries-for-england-2013-2014)
-	- [Department of Energy & Climate Change](#department-of-energy--climate-change)
+	- [Department of Energy & Climate Change](#department-of-energy-climate-change)
 		- [Domestic Electricity Consumption](#domestic-electricity-consumption)
 		- [Domestic Gas Consumption](#domestic-gas-consumption)
-	- [Department for the Environment, Food & Rural Affairs](#department-for-the-environment-food--rural-affairs)
+	- [Department for the Environment, Food & Rural Affairs](#department-for-the-environment-food-rural-affairs)
 		- [Strategic noise mapping 2012](#strategic-noise-mapping-2012)
+		- [Risk of Flooding from Rivers & Sea](#risk-of-flooding-from-rivers-sea)
 	- [National Trust](#national-trust)
 		- [Bath Skyline Walk Route](#bath-skyline-walk-route)
 	- [Natural England](#natural-england)
+	- [Ofcom](#ofcom)
+		- [Broadband Survey June 2013](#broadband-survey-june-2013)
 	- [Office for Low Emission Vehicles](#office-for-low-emission-vehicles)
 		- [National Charge Point Registry](#national-charge-point-registry)
 	- [Office for National Statistics](#office-for-national-statistics)
 		- [Administrative Boundaries](#administrative-boundaries)
+		- [Census 2011](#census-2011)
 		- [Output Area Classifications 2011](#output-area-classifications-2011)
 		- [Indices of Mass Deprivation 2015](#indices-of-mass-deprivation-2015)
 	- [Ordnance Survey](#ordnance-survey)
@@ -214,6 +218,19 @@ Domestic electricity consumption 2013 by postcode.
 | ne_special_areas_conservation.geojson | Special Areas of Conservation<br>A Special Area of Conservation (SAC) is the land designated under Directive 92/43/EEC on the Conservation of Natural Habitats and of Wild Fauna and Flora.                                                                                            |
 | ne_special_protection_areas.geojson   | Special Protection Areas<br>A Special Protection Area (SPA) is the land classified under Directive 79/409 on the Conservation of Wild Birds.                                                                                                                                           |
 | ne_sssi.geojson                       | Sites of Special Scientific Interest<br>SSSI are the finest sites for wildlife and natural features in England, supporting many characteristic, rare and endangered species, habitats and natural features the land notified as an SSSI under the Wildlife and Countryside Act (1981). |
+
+### Ofcom
+
+#### Broadband Survey June 2013
+
+| Item        | Description                                                                                                                                                                                                                 |
+|:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| File        | olev_ncpr_charge_points.geojson                                                                                                                                                                                             |
+| Source      | [Ofcom](http://data.gov.uk/dataset/broadband-coverage) via [Bath: Hacked Datastore](https://data.bathhacked.org/Economy/Banes-Broadband-Survey-June-2013/cnmf-qdpb)                                                         |
+| Retrieved   | 2015-08-21                                                                                                                                                                                                                  |
+| API         | http://chargepoints.dft.gov.uk/api/help                                                                                                                                                                                     |
+| Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) ([OS Open Data](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html)) |
+| Attribution | Data provided by Ofcom<br>Contains OS data (c) Crown copyright \[year\]<br>Contains Royal Mail data (c) copyright and database right \[year\]                                                                               |
 
 ### Office for Low Emission Vehicles
 
