@@ -54,9 +54,7 @@ All files use the WGS 84 / EPSG:4326 spatial reference system. This is to provid
 
 ## Licencing & Attribution
 
-Where attribution is marked as **Mandatory** you **must** display the relevant attribution prominently alongside your use of the data. Typically by overlaying on a map or, where impractical, via a prominent link.
-
-Where attribution is marked as **Optional** we strongly encourage you to include the attribution. It's only fair to credit the source.
+You **must** display the relevant attribution prominently alongside your use of the data. Typically by overlaying on a map or, where impractical, via a prominent link.
 
 For bonus points we'd like it if you'd add a **"Powered by Bath: Hacked"** attribution.
 
@@ -76,13 +74,13 @@ For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.o
 
 ### Bath & North East Somerset Council
 
-| Item        | Description                                                                                                                                                |
-|:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Files       | See below                                                                                                                                                  |
-| Source      | Provided by [Bath & North East Somerset Council](http://www.bathnes.gov.uk/)                                                                               |
-| Retrieved   | 2016-01                                                                                                                                                    |
-| Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                                           |
-| Attribution | **(Mandatory)** Contains OS data &copy; Crown copyright and database right \[year\]<br>**(Mandatory)** Data provided by Bath & North East Somerset Council |
+| Item        | Description                                                                                                                |
+|:------------|:---------------------------------------------------------------------------------------------------------------------------|
+| Files       | See below                                                                                                                  |
+| Source      | Provided by [Bath & North East Somerset Council](http://www.bathnes.gov.uk/)                                               |
+| Retrieved   | 2016-01                                                                                                                    |
+| Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                           |
+| Attribution | Contains OS data &copy; Crown copyright and database right \[year\]<br>Data provided by Bath & North East Somerset Council |
 
 | File                                   | Description                          |
 |:---------------------------------------|:-------------------------------------|
@@ -119,14 +117,14 @@ For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.o
 | Source      | [Open Data Communities - Greenbelt](http://opendatacommunities.org/data/geography/greenbelt)                                                                                                                                |
 | Retrieved   | 2016-01-25                                                                                                                                                                                                                  |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) ([OS Open Data](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html)) |
-| Attribution | **(Mandatory)** Contains OS data &copy; Crown copyright and database right \[year\]<br>(Optional) Data provided by Department for Communities & Local Government                                                            |
+| Attribution | Contains OS data &copy; Crown copyright and database right \[year\]<br>Data provided by Department for Communities & Local Government                                                                                       |
 | See also    | [Green Belt boundaries for England have been released as open data](http://mapgubbins.tumblr.com/post/99635819470/green-belt-boundaries-for-england-have-been)                                                              |
 
 ### Department of Energy & Climate Change
 
 #### Domestic Electricity Consumption
 
-Domestic electricty consumption 2013 by postcode.
+Domestic electricity consumption 2013 by postcode.
 
 | Item        | Description                                                                                                                                                                                                     |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -134,7 +132,7 @@ Domestic electricty consumption 2013 by postcode.
 | Source      | [Postcode level electricity estimates:2013 (experimental)](https://www.gov.uk/government/statistics/postcode-level-electricity-estimates-2013-experimental)                                                     |
 | Retrieved   | 2016-01-24                                                                                                                                                                                                      |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                                                                                                |
-| Attribution | (Optional) Data provided by Department of Energy & Climate Change                                                                                                                                               |
+| Attribution | Data provided by Department of Energy & Climate Change                                                                                                                                                          |
 | See also    | [Sub-national electricity and gas consumption statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/388960/Subnational_electricity_and_gas_consumption_summary_report_2013.pdf) |
 
 #### Domestic Gas Consumption
@@ -145,7 +143,7 @@ Domestic electricty consumption 2013 by postcode.
 | Source      | [Postcode level gas estimates: 2013 (experimental)](https://www.gov.uk/government/statistics/postcode-level-gas-estimates-2013-experimental)                                                                    |
 | Retrieved   | 2016-01-24                                                                                                                                                                                                      |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                                                                                                |
-| Attribution | (Optional) Data provided by Department of Energy & Climate Change                                                                                                                                               |
+| Attribution | Data provided by Department of Energy & Climate Change                                                                                                                                                          |
 | See also    | [Sub-national electricity and gas consumption statistics](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/388960/Subnational_electricity_and_gas_consumption_summary_report_2013.pdf) |
 
 ### Department for the Environment, Food & Rural Affairs
@@ -159,7 +157,7 @@ Domestic electricty consumption 2013 by postcode.
 | Source      | [Open data: strategic noise mapping](https://www.gov.uk/government/publications/open-data-strategic-noise-mapping) |
 | Retrieved   | 2016-01-20                                                                                                         |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                   |
-| Attribution | (Optional) Data provided by Department for the Environment, Food & Rural Affairs                                   |
+| Attribution | Data provided by Department for the Environment, Food & Rural Affairs                                              |
 
 | File                        | Description                                                                                         |
 |:----------------------------|:----------------------------------------------------------------------------------------------------|
@@ -178,7 +176,7 @@ Domestic electricty consumption 2013 by postcode.
 | Source      | [Environment Agency Geostore](http://www.geostore.com/environment-agency/WebStore?xml=environment-agency/xml/ogcDataDownload.xml) |
 | Retrieved   | 2016-01-24                                                                                                                        |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                  |
-| Attribution | (Optional) Data provided by Environment Agency                                                                                    |
+| Attribution | Data provided by Environment Agency                                                                                               |
 
 ### National Trust
 
@@ -190,7 +188,7 @@ Domestic electricty consumption 2013 by postcode.
 | Source      | Provided by BANESC                                                               |
 | Retrieved   | 2016-01-25                                                                       |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
-| Attribution | (Optional) Data provided by National Trust                                       |
+| Attribution | Data provided by National Trust                                                  |
 
 ### Natural England
 
@@ -200,7 +198,7 @@ Domestic electricty consumption 2013 by postcode.
 | Source      | [Environment Agency - Download Environmental Open Data](http://www.geostore.com/environment-agency/WebStore?xml=environment-agency/xml/ogcDataDownload.xml) |
 | Retrieved   | 2016-01-25                                                                                                                                                  |
 | Licence     | [OGL NE-OS](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/391764/OGL-NE-OS.pdf)                                                 |
-| Attribution | **(All Mandatory)**<br>&copy; Natural England copyright.<br> Contains Ordnance Survey data &copy; Crown copyright and database right \[year\]               |
+| Attribution | &copy; Natural England copyright.<br>Contains Ordnance Survey data &copy; Crown copyright and database right \[year\]                                       |
 
 | File                                  | Description                                                                                                                                                                                                                                                                            |
 |:--------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -229,7 +227,7 @@ Publicly Accessible PiV (plugged-in vehicle) Charge Points within the UK.
 | Retrieved   | 2016-01-25                                                                                   |
 | API         | http://chargepoints.dft.gov.uk/api/help                                                      |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)             |
-| Attribution | (Optional) Data provided by Office for Low Emission Vehicles                                 |
+| Attribution | Data provided by Office for Low Emission Vehicles                                            |
 
 ### Office for National Statistics
 
@@ -241,7 +239,7 @@ Publicly Accessible PiV (plugged-in vehicle) Charge Points within the UK.
 | Source      | [ONS Geoportal](https://geoportal.statistics.gov.uk/geoportal/catalog/content/filelist.page?&pos=3&cat=#BD)<br>(If you are thrown to the home page click on Downloads > Boundaries)                                         |
 | Retrieved   | 2016-01-25                                                                                                                                                                                                                  |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) ([OS Open Data](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html)) |
-| Attribution | **(All Mandatory)**<br>Contains National Statistics data &copy; Crown copyright and database right \[year\]<br>Contains OS data &copy; Crown copyright and database right \[year\]                                          |
+| Attribution | Contains National Statistics data &copy; Crown copyright and database right \[year\]<br>Contains OS data &copy; Crown copyright and database right \[year\]                                                                 |
 
 | File                  | Description                            |
 |:----------------------|:---------------------------------------|
@@ -256,14 +254,14 @@ Publicly Accessible PiV (plugged-in vehicle) Charge Points within the UK.
 
 Area classifications group together geographic areas according to key characteristics common to the population in that grouping. These groupings are called clusters and are derived using census data. The area classifications are hierarchical classifications, consisting of three tiers: Supergroups, Groups and Subgroups.
 
-| Item        | Description                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|:------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Files       | ons_oac_2011.geojson                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Source      | [2011 Area Classifications](http://www.ons.gov.uk/ons/guide-method/geography/products/area-classifications/ns-area-classifications/ns-2011-area-classifications/index.html)                                                                                                                                                                                                                                                    |
-| Retrieved   | 2016-01-25                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)<br>[OS Open Data](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html)<br>[ODbL](http://opendatacommons.org/licenses/odbl/)                                                                                                                                              |
-| Attribution | **(All Mandatory)**<br>Contains National Statistics data &copy; Crown copyright and database right \[year\].<br>Contains ONS data &copy; Crown copyright and database right \[year\].<br>Contains NRS data &copy; Crown copyright and database right \[year\].<br>Contains NISRA data &copy; Crown copyright and database right \[year\].<br>Contains Ordnance Survey data &copy; Crown copyright and database right \[year\]. |
-| Granularity | Output Area                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Item        | Description                                                                                                                                                                                                                                                                                                                                                                                             |
+|:------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Files       | ons_oac_2011.geojson                                                                                                                                                                                                                                                                                                                                                                                    |
+| Source      | [2011 Area Classifications](http://www.ons.gov.uk/ons/guide-method/geography/products/area-classifications/ns-area-classifications/ns-2011-area-classifications/index.html)                                                                                                                                                                                                                             |
+| Retrieved   | 2016-01-25                                                                                                                                                                                                                                                                                                                                                                                              |
+| Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)<br>[OS Open Data](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html)<br>[ODbL](http://opendatacommons.org/licenses/odbl/)                                                                                                                       |
+| Attribution | Contains National Statistics data &copy; Crown copyright and database right \[year\].<br>Contains ONS data &copy; Crown copyright and database right \[year\].<br>Contains NRS data &copy; Crown copyright and database right \[year\].<br>Contains NISRA data &copy; Crown copyright and database right \[year\].<br>Contains Ordnance Survey data &copy; Crown copyright and database right \[year\]. |
+| Granularity | Output Area                                                                                                                                                                                                                                                                                                                                                                                             |
 
 #### Indices of Mass Deprivation 2015
 
@@ -275,7 +273,7 @@ Statistics on relative deprivation in small areas in BANES. For full description
 | Source      | [English Indices of deprivation 2015](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015) |
 | Retrieved   | 2016-01-17                                                                                                          |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                    |
-| Attribution | (Optional) Data provided by DCLG & ONS.                                                                             |
+| Attribution | Data provided by DCLG & ONS.                                                                                        |
 | Granularity | Lower Super Output Area                                                                                             |
 
 | Field      | Description                                                                                        |
@@ -353,7 +351,7 @@ Statistics on relative deprivation in small areas in BANES. For full description
 | Source      | [OS Open Map - Local](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-map-local.html) |
 | Retrieved   | 2016-01-21                                                                                                      |
 | Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                                    |
-| Attribution | **(Mandatory)** Contains OS data &copy; Crown copyright \[and database right\] \[year\]                         |
+| Attribution | Contains OS data &copy; Crown copyright \[and database right\] \[year\]                                         |
 
 | File                           | Description                         |
 |:-------------------------------|:------------------------------------|
@@ -375,13 +373,13 @@ Statistics on relative deprivation in small areas in BANES. For full description
 
 Postcode centroids within BANES, with administrative area lookup.
 
-| Item        | Description                                                                                                                                                                                                                                                                |
-|:------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| File        | os_postcodes.geojson                                                                                                                                                                                                                                                       |
-| Source      | [Code-Point Open](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html)                                                                                                                                                                  |
-| Retrieved   | 2016-01-21                                                                                                                                                                                                                                                                 |
-| Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                                                                                                                                                                                               |
-| Attribution | **(All Mandatory)**<br>Contains OS data &copy; Crown copyright \[and database right\] \[year\]<br>Contains Royal Mail data &copy; Royal Mail copyright and Database right \[year\]<br>Contains National Statistics data &copy; Crown copyright and database right \[year\] |
+| Item        | Description                                                                                                                                                                                                                                             |
+|:------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| File        | os_postcodes.geojson                                                                                                                                                                                                                                    |
+| Source      | [Code-Point Open](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html)                                                                                                                                               |
+| Retrieved   | 2016-01-21                                                                                                                                                                                                                                              |
+| Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                                                                                                                                                                            |
+| Attribution | <br>Contains OS data &copy; Crown copyright \[and database right\] \[year\]<br>Contains Royal Mail data &copy; Royal Mail copyright and Database right \[year\]<br>Contains National Statistics data &copy; Crown copyright and database right \[year\] |
 
 ### Police
 
@@ -393,4 +391,4 @@ Postcode centroids within BANES, with administrative area lookup.
 | Source      | [Police API](https://data.police.uk/docs/) via [BANES Street Level Crimes Dataset](https://data.bathhacked.org/Government-and-Society/BANES-Street-Level-Crimes/cujy-zqnk) |
 | Retrieved   | 2016-01-25                                                                                                                                                                 |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                                                           |
-| Attribution | (Optional) Date provided by data.police.uk                                                                                                                                 |
+| Attribution | Date provided by data.police.uk                                                                                                                                            |
