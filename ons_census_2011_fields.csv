@@ -1,0 +1,195 @@
+Geog Type,Geog Type
+Name,Name
+Total usua,Total usually resident population
+Total male,Total males
+Total fema,Total females
+Age 0-4,Age 0-4
+Age 5-9,Age 5-9
+Age 10-15,Age 10-15
+Age 16-24,Age 16-24
+Age 25-44,Age 25-44
+Age 45-64,Age 45-64
+Age 65-74,Age 65-74
+Age 75 and,Age 75 and over
+People liv,People living in households
+People li2,People living in communal establishments
+Full time,Full time students aged 18 and over (at term time address)
+White Tota,White Total
+White_ Eng,White: English/Welsh/Scottish/ Northern Irish/British
+White_ Iri,White: Irish
+White_ Gyp,White: Gypsy or Irish Traveller
+White_ Oth,White: Other White
+Black and,Black and Minority Ethnic Group Total
+Mixed_ Whi,Mixed: White and Black Caribbean
+Mixed_ Wh2,Mixed: White and Black African
+Mixed_ Wh3,Mixed: White and Asian
+Mixed_ Oth,Mixed: Other Mixed
+Asian/Asia,Asian/Asian British: Indian
+Asian/Asi2,Asian/Asian British: Pakistani
+Asian/Asi3,Asian/Asian British: Bangladeshi
+Asian/Asi4,Asian/Asian British: Chinese
+Asian/Asi5,Asian/Asian British: Other Asian
+Black/Blac,Black/Black British: African
+Black/Bla2,Black/Black British: Caribbean
+Black/Bla3,Black/Black British: Other Black
+Other ethn,Other ethnic group: Arab
+Other eth2,Other ethnic group: Other
+United Kin,United Kingdom
+Republic o,Republic of Ireland
+Other EU m,Other EU member countries (in March 2001)
+Other EU A,Other EU Accession countries (April 2001-March 2011)
+Other coun,Other countries
+Christian,Christian
+Buddhist,Buddhist
+Hindu,Hindu
+Jewish,Jewish
+Muslim,Muslim
+Sikh,Sikh
+Other reli,Other religions
+No religio,No religion
+Religion n,Religion not stated
+All people,All people aged 3 and over
+Main langu,Main language is English
+Main lang2,Main language is not English
+Main lang3,Main language is sign language (included in not English)
+Born in UK,Born in UK
+Resident i,Resident in UK: Less than 2 years
+Resident 2,Resident in UK: 2 years or more but less than 5 years
+Resident 3,Resident in UK: 5 years or more but less than 10 years
+Resident 4,Resident in UK: 10 years or more
+People who,People whose day-to-day activities are limited a lot
+People wh2,People whose day-to-day activities are limited a little
+People age,People aged 16 to 64 whose day-to-day activities are limited a lot
+People ag2,People aged 16 to 64 whose day-to-day activities are limited a little
+Very good,Very good health
+Good healt,Good health
+Fair healt,Fair health
+Bad health,Bad health
+Very bad h,Very bad health
+Total numb,Total number of carers
+1-19 hours,1-19 hours a week
+20-49 hour,20-49 hours a week
+50 or more,50 or more hours a week
+Total num2,Total number of people aged 16 to 74_1
+Total Econ,Total Economically active aged 16 to 74_1
+Employees,Employees full time
+Employees2,Employees part time
+Self-emplo,Self-employed
+Unemployed,Unemployed
+Full time2,Full time student
+Total Eco2,Total Economically inactive aged 16 to 74
+Retired,Retired
+Student,Student
+Looking af,Looking after home or family
+Long-term,Long-term sick or disabled
+Other,Other
+Total Unem,Total Unemployed aged 16 to 74
+aged 16 to,aged 16 to 24
+aged 50 to,aged 50 to 74
+who have n,who have never worked
+who are lo,who are long term unemployed
+Total num3,Total number of people aged 16 and over
+No Qualifi,No Qualifications
+Highest le,Highest level of qualification: Level 1
+Highest l2,Highest level of qualification: Level 2
+Highest l3,Highest level of qualification: Apprenticeship
+Highest l4,Highest level of qualification: Level 3
+Highest l5,Highest level of qualification: Level 4 and above
+Other qual,Other qualifications
+Total num4,Total number of people aged 16 to 74 in employment_2
+People wh3,People who work mainly at or from home
+Undergroun,"Underground, metro, light rail, tram"
+Train,Train
+"Bus, minib","Bus, minibus or coach"
+Taxi,Taxi
+Motorcycle,"Motorcycle, scooter or moped"
+Driving a,Driving a car or van
+Passenger,Passenger in a car or van
+Bicycle,Bicycle
+On foot,On foot
+Other meth,Other method of travel to work
+Total num5,Total number of people aged 16 to 74 in employment_3
+Part time_,Part time: 15 or less
+Part time2,Part time: 16 to 30
+Full time_,Full time: 31 to 48 
+Full time3,Full time: 49 or more
+Total num6,Total number of people aged 16 to 74 in employment_4
+A Agricult,A Agriculture forestry and fishing
+B Mining a,B Mining and quarrying
+C Manufact,C Manufacturing
+D Electric,"D Electricity; gas, steam and air conditioning supply"
+E Water su,"E Water supply; sewerage, waste management & remediation activities"
+F Construc,F Construction
+G Wholesal,G Wholesale & retail trade repair of motor vehicles & motorcycles
+H Transpor,H Transport and storage
+I Accommod,I Accommodation and food service activities
+J Informat,J Information and communication
+K Financia,K Financial and insurance activities
+L Real est,L Real estate activities
+M Professi,"M Professional, scientific and technical activities"
+N Administ,N Administrative and support service activities
+O Public a,O Public administration and defence
+P Educatio,P Education
+Q Human he,Q Human health and social work
+R/S/T/U Ot,R/S/T/U Other
+Total num7,Total number of people aged 16 to 74_2
+1. Higher,1. Higher managerial and professional occupations
+2. Lower m,2. Lower managerial and professional occupations
+3. Interme,3. Intermediate occupations
+4. Small e,4. Small employers and own account workers
+5. Lower s,5. Lower supervisory and technical occupations
+6. Semi-ro,6. Semi-routine occupations
+7. Routine,7. Routine occupations
+Never work,Never worked and long term unemployed
+Full-time,Full-time students
+Total num8,Total number of dwellings
+Unshared,Unshared
+Shared,Shared
+Total num9,Total number of household spaces
+Occupied (,Occupied (with at least one usual resident)
+Unoccupied,Unoccupied (no usual residents)
+Detached,Detached
+Semi-detac,Semi-detached
+Terraced (,Terraced (including end terrace)
+Purpose-bu,Purpose-built block of flats
+Part of a,Part of a converted or shared house (including bed-sits)
+In commerc,In commercial building
+Caravan or,Caravan or other mobile or temporary structure
+All househ,All households_1
+Owned_ Own,Owned: Owned outright
+Owned_ Ow2,Owned: Owned with a mortgage or loan
+Owned_ Sha,Owned: Shared ownership (part owned and part rented)
+Social ren,Social rented: Local authority
+Social re2,Social rented: Other
+Private re,Private rented: Private landlord or letting agency
+Private r2,Private rented: Other
+Living ren,Living rent free
+Occupancy,Occupancy rating (rooms) of -1 or less
+Occupancy2,Occupancy rating (bedrooms) of -1 or less
+No central,No central heating 
+Gas centra,Gas central heating
+Electric (,Electric (including storage heaters) central heating
+Oil centra,Oil central heating
+Solid fuel,"Solid fuel (wood, coal) central heating"
+Other cent,Other central heating
+2 or more,2 or more types of central heating
+No cars or,No cars or vans in household
+One car or,One car or van in household
+Two or mor,Two or more cars or vans in household
+Total nu10,Total number of cars or vans in area
+All house2,All households
+One person,One person household
+Married co,Married couple household: With dependent children
+Married c2,Married couple household: No dependent children
+Same-sex c,Same-sex civil partnership couple household: With dependent children
+Same-sex 2,Same-sex civil partnership couple household: No dependent children
+Cohabiting,Cohabiting couple household: With dependent children
+Cohabitin2,Cohabiting couple household: No dependent children
+Lone paren,Lone parent household: With dependent children
+Lone pare2,Lone parent household: No dependent children
+Multi-pers,Multi-person household: All full-time students
+Multi-per2,Multi-person household: Other
+Households,Households with dependent children
+Household2,Households with dependent children: aged 0-4
+No adults,No adults in employment with dependent children
+No adults2,No adults in employment without dependent children

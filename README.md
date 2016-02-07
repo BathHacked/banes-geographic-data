@@ -251,6 +251,24 @@ Publicly Accessible PiV (plugged-in vehicle) Charge Points within the UK.
 | ons_wmc_2014.geojson  | 2014 Westminster Constituencies        |
 | ons_wz_2011.geojson   | 2011 Workplace Zones                   |
 
+#### Census 2011
+
+| Item        | Description                                                                                                                                                                                   |
+|:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Files       | See below                                                                                                                                                                                     |
+| Source      | [ONS](http://www.ons.gov.uk/ons/guide-method/census/2011/index.html) via [Bath:Hacked Datastore](https://data.bathhacked.org/Population/Census-2011-B-NES-Selected-Small-Area-Data/qxks-a8tv) |
+| Retrieved   | 2016-02-07                                                                                                                                                                                    |
+| Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                                                                              |
+| Attribution | Adapted from data from the Office for National Statistics licensed under the Open Government Licence v.3.0.                                                                                   |
+
+| File                       | Description                            |
+|:---------------------------|:---------------------------------------|
+| ons_census_2011_fields.csv | Full names of common fields            |
+| ons_census_2011_oa.csv     | 2011 census by Output Area             |
+| ons_census_2011_lsoa.csv   | 2011 census by Lower Super Output Area |
+| ons_census_2011_ward.csv   | 2011 census by Ward                    |
+
+
 #### Output Area Classifications 2011
 
 Area classifications group together geographic areas according to key characteristics common to the population in that grouping. These groupings are called clusters and are derived using census data. The area classifications are hierarchical classifications, consisting of three tiers: Supergroups, Groups and Subgroups.
@@ -374,13 +392,13 @@ Statistics on relative deprivation in small areas in BANES. For full description
 
 Postcode centroids within BANES, with administrative area lookup.
 
-| Item        | Description                                                                                                                                                                                                                                             |
-|:------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| File        | os_postcodes.geojson                                                                                                                                                                                                                                    |
-| Source      | [Code-Point Open](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html)                                                                                                                                               |
-| Retrieved   | 2016-01-21                                                                                                                                                                                                                                              |
-| Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                                                                                                                                                                            |
-| Attribution | <br>Contains OS data &copy; Crown copyright \[and database right\] \[year\]<br>Contains Royal Mail data &copy; Royal Mail copyright and Database right \[year\]<br>Contains National Statistics data &copy; Crown copyright and database right \[year\] |
+| Item        | Description                                                                                                                                                                                                                                         |
+|:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| File        | os_postcodes.geojson                                                                                                                                                                                                                                |
+| Source      | [Code-Point Open](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html)                                                                                                                                           |
+| Retrieved   | 2016-01-21                                                                                                                                                                                                                                          |
+| Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                                                                                                                                                                        |
+| Attribution | Contains OS data &copy; Crown copyright \[and database right\] \[year\]<br>Contains Royal Mail data &copy; Royal Mail copyright and Database right \[year\]<br>Contains National Statistics data &copy; Crown copyright and database right \[year\] |
 
 ### Police
 
