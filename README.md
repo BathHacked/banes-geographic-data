@@ -101,6 +101,7 @@ For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.o
 | banes_gss_playspace_children.geojson   | Play spaces for children             |
 | banes_gss_playspace_youth.geojson      | Play spaces for youth                |
 | banes_landscharareas.geojson           | Rural landscape character areas      |
+| banes_litter_bins.geojson              | Litter bins survey                   |
 | banes_local_shops.geojson              | Local shops                          |
 | banes_prow_bath.geojson                | Public rights of way in Bath         |
 | banes_prow_somerset.geojson            | Public rights of way in Somerset     |
