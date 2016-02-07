@@ -1,24 +1,22 @@
 
 # Bath & North East Somerset Geographic Data
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Bath & North East Somerset Geographic Data](#bath-north-east-somerset-geographic-data)
+- [Bath & North East Somerset Geographic Data](#bath--north-east-somerset-geographic-data)
 	- [Introduction](#introduction)
 	- [Subsetting](#subsetting)
 	- [Spatial Reference System](#spatial-reference-system)
-	- [Licencing & Attribution](#licencing-attribution)
+	- [Licencing & Attribution](#licencing--attribution)
 	- [How To Use These Files](#how-to-use-these-files)
-	- [Data Sources & Files](#data-sources-files)
-		- [Bath & North East Somerset Council](#bath-north-east-somerset-council)
-		- [Department for Communities & Local Government](#department-for-communities-local-government)
+	- [Data Sources & Files](#data-sources--files)
+		- [Bath & North East Somerset Council](#bath--north-east-somerset-council)
+		- [Department for Communities & Local Government](#department-for-communities--local-government)
 			- [Green Belt boundaries for England 2013-2014](#green-belt-boundaries-for-england-2013-2014)
-		- [Department of Energy & Climate Change](#department-of-energy-climate-change)
+		- [Department of Energy & Climate Change](#department-of-energy--climate-change)
 			- [Domestic Electricity Consumption](#domestic-electricity-consumption)
 			- [Domestic Gas Consumption](#domestic-gas-consumption)
-		- [Department for the Environment, Food & Rural Affairs](#department-for-the-environment-food-rural-affairs)
+		- [Department for the Environment, Food & Rural Affairs](#department-for-the-environment--food-rural-affairs)
 			- [Strategic noise mapping 2012](#strategic-noise-mapping-2012)
-			- [Risk of Flooding from Rivers & Sea](#risk-of-flooding-from-rivers-sea)
+			- [Risk of Flooding from Rivers & Sea](#risk-of-flooding-from-rivers--sea)
 		- [Historic England](#historic-england)
 			- [Listed Buildings](#listed-buildings)
 		- [National Trust](#national-trust)
@@ -39,8 +37,6 @@
 			- [Terrain 50](#terrain-50)
 		- [Police](#police)
 			- [Street Level Crimes](#street-level-crimes)
-
-<!-- /TOC -->
 
 ## Introduction
 
