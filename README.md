@@ -1,40 +1,43 @@
 
 # Bath & North East Somerset Geographic Data
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Introduction](#introduction)
-- [Subsetting](#subsetting)
-- [Spatial Reference System](#spatial-reference-system)
-- [Licencing & Attribution](#licencing-attribution)
-- [How To Use These Files](#how-to-use-these-files)
-- [Data Sources & Files](#data-sources-files)
-	- [Bath & North East Somerset Council](#bath-north-east-somerset-council)
-	- [Department for Communities & Local Government](#department-for-communities-local-government)
-		- [Green Belt boundaries for England 2013-2014](#green-belt-boundaries-for-england-2013-2014)
-	- [Department of Energy & Climate Change](#department-of-energy-climate-change)
-		- [Domestic Electricity Consumption](#domestic-electricity-consumption)
-		- [Domestic Gas Consumption](#domestic-gas-consumption)
-	- [Department for the Environment, Food & Rural Affairs](#department-for-the-environment-food-rural-affairs)
-		- [Strategic noise mapping 2012](#strategic-noise-mapping-2012)
-		- [Risk of Flooding from Rivers & Sea](#risk-of-flooding-from-rivers-sea)
-	- [National Trust](#national-trust)
-		- [Bath Skyline Walk Route](#bath-skyline-walk-route)
-	- [Natural England](#natural-england)
-	- [Ofcom](#ofcom)
-		- [Broadband Survey June 2013](#broadband-survey-june-2013)
-	- [Office for Low Emission Vehicles](#office-for-low-emission-vehicles)
-		- [National Charge Point Registry](#national-charge-point-registry)
-	- [Office for National Statistics](#office-for-national-statistics)
-		- [Administrative Boundaries](#administrative-boundaries)
-		- [Census 2011](#census-2011)
-		- [Output Area Classifications 2011](#output-area-classifications-2011)
-		- [Indices of Mass Deprivation 2015](#indices-of-mass-deprivation-2015)
-	- [Ordnance Survey](#ordnance-survey)
-		- [Open Map Local](#open-map-local)
-		- [Code-Point Open](#code-point-open)
-	- [Police](#police)
-		- [Street Level Crimes](#street-level-crimes)
+- [Bath & North East Somerset Geographic Data](#bath-north-east-somerset-geographic-data)
+	- [Introduction](#introduction)
+	- [Subsetting](#subsetting)
+	- [Spatial Reference System](#spatial-reference-system)
+	- [Licencing & Attribution](#licencing-attribution)
+	- [How To Use These Files](#how-to-use-these-files)
+	- [Data Sources & Files](#data-sources-files)
+		- [Bath & North East Somerset Council](#bath-north-east-somerset-council)
+		- [Department for Communities & Local Government](#department-for-communities-local-government)
+			- [Green Belt boundaries for England 2013-2014](#green-belt-boundaries-for-england-2013-2014)
+		- [Department of Energy & Climate Change](#department-of-energy-climate-change)
+			- [Domestic Electricity Consumption](#domestic-electricity-consumption)
+			- [Domestic Gas Consumption](#domestic-gas-consumption)
+		- [Department for the Environment, Food & Rural Affairs](#department-for-the-environment-food-rural-affairs)
+			- [Strategic noise mapping 2012](#strategic-noise-mapping-2012)
+			- [Risk of Flooding from Rivers & Sea](#risk-of-flooding-from-rivers-sea)
+		- [Historic England](#historic-england)
+			- [Listed Buildings](#listed-buildings)
+		- [National Trust](#national-trust)
+			- [Bath Skyline Walk Route](#bath-skyline-walk-route)
+		- [Natural England](#natural-england)
+		- [Ofcom](#ofcom)
+			- [Broadband Survey June 2013](#broadband-survey-june-2013)
+		- [Office for Low Emission Vehicles](#office-for-low-emission-vehicles)
+			- [National Charge Point Registry](#national-charge-point-registry)
+		- [Office for National Statistics](#office-for-national-statistics)
+			- [Administrative Boundaries](#administrative-boundaries)
+			- [Census 2011](#census-2011)
+			- [Output Area Classifications 2011](#output-area-classifications-2011)
+			- [Indices of Mass Deprivation 2015](#indices-of-mass-deprivation-2015)
+		- [Ordnance Survey](#ordnance-survey)
+			- [Open Map Local](#open-map-local)
+			- [Code-Point Open](#code-point-open)
+		- [Police](#police)
+			- [Street Level Crimes](#street-level-crimes)
 
 <!-- /TOC -->
 
@@ -183,6 +186,18 @@ Domestic electricity consumption 2013 by postcode.
 | Retrieved   | 2016-01-24                                                                                                                        |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                  |
 | Attribution | Data provided by Environment Agency                                                                                               |
+
+### Historic England
+
+#### Listed Buildings
+
+| Item        | Description                                                                                                                                                                                                                                                                                                         |
+|:------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Files       | he_listed_buildings.geojson                                                                                                                                                                                                                                                                                         |
+| Source      | [Historic England](https://www.historicengland.org.uk/listing/the-list/data-downloads)                                                                                                                                                                                                                              |
+| Retrieved   | 2016-02-07                                                                                                                                                                                                                                                                                                          |
+| Licence     | See he_listed_buildings_licence.pdf                                                                                                                                                                                                                                                                                 |
+| Attribution | &copy; Historic England [year].<br>Contains Ordnance Survey data &copy; Crown copyright and database right [year]<br>The Historic England GIS Data contained in this material was obtained on [date]. The most publicly available up to date Historic England GIS Data can be obtained from HistoricEngland.org.uk. |
 
 ### National Trust
 
