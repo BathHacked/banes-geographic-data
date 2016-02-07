@@ -168,6 +168,15 @@ Domestic electricty consumption 2013 by postcode.
 | defra_noise_rl_lngt.geojson | Night time annual average rail noise level results in dB, where night is defined as 2300 - 0700.    |
 | defra_noise_rl_lq16.geojson | Annual average rail noise levels for the 16-hour period between 0700 – 2300.                        |
 
+#### Risk of Flooding from Rivers & Sea
+
+| Item        | Description                                                                                                                       |
+|:------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| Files       | defra_rofrs.geojson                                                                                                               |
+| Source      | [Environment Agency Geostore](http://www.geostore.com/environment-agency/WebStore?xml=environment-agency/xml/ogcDataDownload.xml) |
+| Retrieved   | 2016-01-24                                                                                                                        |
+| Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                  |
+| Attribution | (Optional) Data provided by Environment Agency                                                                                    |
 
 ### National Trust
 
