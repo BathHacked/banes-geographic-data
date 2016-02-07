@@ -228,7 +228,6 @@ Domestic electricity consumption 2013 by postcode.
 | File        | olev_ncpr_charge_points.geojson                                                                                                                                                                                             |
 | Source      | [Ofcom](http://data.gov.uk/dataset/broadband-coverage) via [Bath: Hacked Datastore](https://data.bathhacked.org/Economy/Banes-Broadband-Survey-June-2013/cnmf-qdpb)                                                         |
 | Retrieved   | 2015-08-21                                                                                                                                                                                                                  |
-| API         | http://chargepoints.dft.gov.uk/api/help                                                                                                                                                                                     |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) ([OS Open Data](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html)) |
 | Attribution | Data provided by Ofcom<br>Contains OS data (c) Crown copyright \[year\]<br>Contains Royal Mail data (c) copyright and database right \[year\]                                                                               |
 
@@ -301,85 +300,20 @@ Area classifications group together geographic areas according to key characteri
 
 #### Indices of Mass Deprivation 2015
 
-Statistics on relative deprivation in small areas in BANES. For full descriptions of fields see below.
+Statistics on relative deprivation in small areas in BANES. For `ons_imd_2015_fields.csv` for full descriptions of fields.
 
 | Item        | Description                                                                                                         |
 |:------------|:--------------------------------------------------------------------------------------------------------------------|
-| File        | ons_imd_2015.geojson                                                                                                |
+| File        | ons_imd_2015.geojson, ons_imd_2015_fields.csv                                                                       |
 | Source      | [English Indices of deprivation 2015](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015) |
 | Retrieved   | 2016-01-17                                                                                                          |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                    |
 | Attribution | Data provided by DCLG & ONS.                                                                                        |
 | Granularity | Lower Super Output Area                                                                                             |
 
-| Field      | Description                                                                                        |
-|:-----------|:---------------------------------------------------------------------------------------------------|
-| lsoa11cd   | LSOA code (2011)                                                                                   |
-| lsoa11nm   | LSOA name (2011)                                                                                   |
-| lsoa11nmw  | LSOA name (2011)                                                                                   |
-| lsoa name  | LSOA name (2011)                                                                                   |
-| local auth | Local Authority District code (2013)                                                               |
-| local aut2 | Local Authority District name (2013)                                                               |
-| index of m | Index of Multiple Deprivation (IMD) Score                                                          |
-| index of 2 | Index of Multiple Deprivation (IMD) Rank (where 1 is most deprived)                                |
-| index of 3 | Index of Multiple Deprivation (IMD) Decile (where 1 is most deprived 10% of LSOAs)                 |
-| income sco | Income Score (rate)                                                                                |
-| income ran | Income Rank (where 1 is most deprived)                                                             |
-| income dec | Income Decile (where 1 is most deprived 10% of LSOAs)                                              |
-| employment | Employment Score (rate)                                                                            |
-| employmen2 | Employment Rank (where 1 is most deprived)                                                         |
-| employmen3 | Employment Decile (where 1 is most deprived 10% of LSOAs)                                          |
-| education, | Education, Skills and Training Score                                                               |
-| education2 | Education, Skills and Training Rank (where 1 is most deprived)                                     |
-| education3 | Education, Skills and Training Decile (where 1 is most deprived 10% of LSOAs)                      |
-| health dep | Health Deprivation and Disability Score                                                            |
-| health de2 | Health Deprivation and Disability Rank (where 1 is most deprived)                                  |
-| health de3 | Health Deprivation and Disability Decile (where 1 is most deprived 10% of LSOAs)                   |
-| crime scor | Crime Score                                                                                        |
-| crime rank | Crime Rank (where 1 is most deprived)                                                              |
-| crime deci | Crime Decile (where 1 is most deprived 10% of LSOAs)                                               |
-| barriers t | Barriers to Housing and Services Score                                                             |
-| barriers 2 | Barriers to Housing and Services Rank (where 1 is most deprived)                                   |
-| barriers 3 | Barriers to Housing and Services Decile (where 1 is most deprived 10% of LSOAs)                    |
-| living env | Living Environment Score                                                                           |
-| living en2 | Living Environment Rank (where 1 is most deprived)                                                 |
-| living en3 | Living Environment Decile (where 1 is most deprived 10% of LSOAs)                                  |
-| income dep | Income Deprivation Affecting Children Index (IDACI) Score (rate)                                   |
-| income de2 | Income Deprivation Affecting Children Index (IDACI) Rank (where 1 is most deprived)                |
-| income de3 | Income Deprivation Affecting Children Index (IDACI) Decile (where 1 is most deprived 10% of LSOAs) |
-| income de4 | Income Deprivation Affecting Older People (IDAOPI) Score (rate)                                    |
-| income de5 | Income Deprivation Affecting Older People (IDAOPI) Rank (where 1 is most deprived)                 |
-| income de6 | Income Deprivation Affecting Older People (IDAOPI) Decile (where 1 is most deprived 10% of LSOAs)  |
-| children a | Children and Young People Sub-domain Score                                                         |
-| children 2 | Children and Young People Sub-domain Rank (where 1 is most deprived)                               |
-| children 3 | Children and Young People Sub-domain Decile (where 1 is most deprived 10% of LSOAs)                |
-| adult skil | Adult Skills Sub-domain Score                                                                      |
-| adult ski2 | Adult Skills Sub-domain Rank (where 1 is most deprived)                                            |
-| adult ski3 | Adult Skills Sub-domain Decile (where 1 is most deprived 10% of LSOAs)                             |
-| geographic | Geographical Barriers Sub-domain Score                                                             |
-| geographi2 | Geographical Barriers Sub-domain Rank (where 1 is most deprived)                                   |
-| geographi3 | Geographical Barriers Sub-domain Decile (where 1 is most deprived 10% of LSOAs)                    |
-| wider barr | Wider Barriers Sub-domain Score                                                                    |
-| wider bar2 | Wider Barriers Sub-domain Rank (where 1 is most deprived)                                          |
-| wider bar3 | Wider Barriers Sub-domain Decile (where 1 is most deprived 10% of LSOAs)                           |
-| indoors su | Indoors Sub-domain Score                                                                           |
-| indoors s2 | Indoors Sub-domain Rank (where 1 is most deprived)                                                 |
-| indoors s3 | Indoors Sub-domain Decile (where 1 is most deprived 10% of LSOAs)                                  |
-| outdoors s | Outdoors Sub-domain Score                                                                          |
-| outdoors 2 | Outdoors Sub-domain Rank (where 1 is most deprived)                                                |
-| outdoors 3 | Outdoors Sub-domain Decile (where 1 is most deprived 10% of LSOAs)                                 |
-| total popu | Total population: mid 2012 (excluding prisoners)                                                   |
-| dependent  | Dependent Children aged 0-15: mid 2012 (excluding prisoners)                                       |
-| population | Population aged 16-59: mid 2012 (excluding prisoners)                                              |
-| older popu | Older population aged 60 and over: mid 2012 (excluding prisoners)                                  |
-| working ag | Working age population 18-59/64: for use with Employment Deprivation Domain (excluding prisoners)  |
-
-
-
 ### Ordnance Survey
 
 #### Open Map Local
-
 
 | Item        | Description                                                                                                     |
 |:------------|:----------------------------------------------------------------------------------------------------------------|
@@ -427,4 +361,4 @@ Postcode centroids within BANES, with administrative area lookup.
 | Source      | [Police API](https://data.police.uk/docs/) via [BANES Street Level Crimes Dataset](https://data.bathhacked.org/Government-and-Society/BANES-Street-Level-Crimes/cujy-zqnk) |
 | Retrieved   | 2016-01-25                                                                                                                                                                 |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                                                           |
-| Attribution | Date provided by data.police.uk                                                                                                                                            |
+| Attribution | Data provided by data.police.uk                                                                                                                                            |
