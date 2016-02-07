@@ -86,6 +86,7 @@ For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.o
 |:---------------------------------------|:-------------------------------------|
 | banes_circuit_of_bath_walk.geojson     | Circuit of Bath Walk route           |
 | banes_conservation_ar.geojson          | Conservation areas                   |
+| banes_gp_surgeries.geojson             | GP surgeries                         |
 | banes_green_belt.geojson               | Green belt land                      |
 | banes_grit_bins.geojson                | Grit bins                            |
 | banes_gss_allotments.geojson           | Allotments                           |
