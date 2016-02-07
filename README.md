@@ -36,6 +36,7 @@
 		- [Ordnance Survey](#ordnance-survey)
 			- [Open Map Local](#open-map-local)
 			- [Code-Point Open](#code-point-open)
+			- [Terrain 50](#terrain-50)
 		- [Police](#police)
 			- [Street Level Crimes](#street-level-crimes)
 
@@ -366,6 +367,18 @@ Postcode centroids within BANES, with administrative area lookup.
 | Retrieved   | 2016-01-21                                                                                                                                                                                                                                          |
 | Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                                                                                                                                                                        |
 | Attribution | Contains OS data &copy; Crown copyright \[and database right\] \[year\]<br>Contains Royal Mail data &copy; Royal Mail copyright and Database right \[year\]<br>Contains National Statistics data &copy; Crown copyright and database right \[year\] |
+
+#### Terrain 50
+
+Terrain contours with post spacing of 50m	& vertical interval of 10m.
+
+| Item        | Description                                                                                        |
+|:------------|:---------------------------------------------------------------------------------------------------|
+| File        | os_terrain50.geojson                                                                               |
+| Source      | [OS Terrain 50](https://www.ordnancesurvey.co.uk/business-and-government/products/terrain-50.html) |
+| Retrieved   | 2015-12-11                                                                                         |
+| Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                       |
+| Attribution | Contains OS data &copy; Crown copyright \[and database right\] \[year\]                            |
 
 ### Police
 
