@@ -109,6 +109,7 @@ For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.o
 | banes_local_shops.geojson              | Local shops                          |
 | banes_prow_bath.geojson                | Public rights of way in Bath         |
 | banes_prow_somerset.geojson            | Public rights of way in Somerset     |
+| banes_river_rescue_cabinets.geojson    | River rescue cabinets                |
 | banes_tpos.geojson                     | Tree preservation orders & TPO areas |
 
 
@@ -300,7 +301,7 @@ Area classifications group together geographic areas according to key characteri
 
 #### Indices of Mass Deprivation 2015
 
-Statistics on relative deprivation in small areas in BANES. For `ons_imd_2015_fields.csv` for full descriptions of fields.
+Statistics on relative deprivation in small areas in BANES. See `ons_imd_2015_fields.csv` for full descriptions of fields.
 
 | Item        | Description                                                                                                         |
 |:------------|:--------------------------------------------------------------------------------------------------------------------|
