@@ -85,31 +85,36 @@ For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.o
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                           |
 | Attribution | Contains OS data &copy; Crown copyright and database right \[year\]<br>Data provided by Bath & North East Somerset Council |
 
-| File                                   | Description                          |
-|:---------------------------------------|:-------------------------------------|
-| banes_circuit_of_bath_walk.geojson     | Circuit of Bath Walk route           |
-| banes_conservation_ar.geojson          | Conservation areas                   |
-| banes_gp_surgeries.geojson             | GP surgeries                         |
-| banes_green_belt.geojson               | Green belt land                      |
-| banes_grit_bins.geojson                | Grit bins                            |
-| banes_gss_allotments.geojson           | Allotments                           |
-| banes_gss_amenity_grass.geojson        | Amenity grass areas                  |
-| banes_gss_churchyards_cem.geojson      | Churchyards & cemeteries             |
-| banes_gss_education_greenspace.geojson | Education green space                |
-| banes_gss_natural_greenspace.geojson   | Natural green space                  |
-| banes_gss_outdoorsport_fixed.geojson   | Fixed outdoor sport areas            |
-| banes_gss_outdoorsport_pitches.geojson | Outdoor sport pitches                |
-| banes_gss_outdoorsport_private.geojson | Private outdoor sport areas          |
-| banes_gss_parks_recreation.geojson     | Park & recreational areas            |
-| banes_gss_playspace_children.geojson   | Play spaces for children             |
-| banes_gss_playspace_youth.geojson      | Play spaces for youth                |
-| banes_landscharareas.geojson           | Rural landscape character areas      |
-| banes_litter_bins.geojson              | Litter bins survey                   |
-| banes_local_shops.geojson              | Local shops                          |
-| banes_prow_bath.geojson                | Public rights of way in Bath         |
-| banes_prow_somerset.geojson            | Public rights of way in Somerset     |
-| banes_river_rescue_cabinets.geojson    | River rescue cabinets                |
-| banes_tpos.geojson                     | Tree preservation orders & TPO areas |
+| File                                          | Description                          |
+|:----------------------------------------------|:-------------------------------------|
+| banes_circuit_of_bath_walk.geojson            | Circuit of Bath Walk route           |
+| banes_city_farms.geojson                      | City farms                           |
+| banes_community_agriculture.geojson           | Community agriculture                |
+| banes_community_gardens.geojson               | Community gardens                    |
+| banes_community_orchards.geojson              | Community orchards                   |
+| banes_community_supported_agriculture.geojson | Community supported agriculture      |
+| banes_conservation_ar.geojson                 | Conservation areas                   |
+| banes_gp_surgeries.geojson                    | GP surgeries                         |
+| banes_green_belt.geojson                      | Green belt land                      |
+| banes_grit_bins.geojson                       | Grit bins                            |
+| banes_gss_allotments.geojson                  | Allotments                           |
+| banes_gss_amenity_grass.geojson               | Amenity grass areas                  |
+| banes_gss_churchyards_cem.geojson             | Churchyards & cemeteries             |
+| banes_gss_education_greenspace.geojson        | Education green space                |
+| banes_gss_natural_greenspace.geojson          | Natural green space                  |
+| banes_gss_outdoorsport_fixed.geojson          | Fixed outdoor sport areas            |
+| banes_gss_outdoorsport_pitches.geojson        | Outdoor sport pitches                |
+| banes_gss_outdoorsport_private.geojson        | Private outdoor sport areas          |
+| banes_gss_parks_recreation.geojson            | Park & recreational areas            |
+| banes_gss_playspace_children.geojson          | Play spaces for children             |
+| banes_gss_playspace_youth.geojson             | Play spaces for youth                |
+| banes_landscharareas.geojson                  | Rural landscape character areas      |
+| banes_litter_bins.geojson                     | Litter bins survey                   |
+| banes_local_shops.geojson                     | Local shops                          |
+| banes_prow_bath.geojson                       | Public rights of way in Bath         |
+| banes_prow_somerset.geojson                   | Public rights of way in Somerset     |
+| banes_river_rescue_cabinets.geojson           | River rescue cabinets                |
+| banes_tpos.geojson                            | Tree preservation orders & TPO areas |
 
 
 ### Department for Communities & Local Government

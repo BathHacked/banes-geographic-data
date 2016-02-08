@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ORGANISATI": "Dry Arch Growers", "ADDRESS": "Holcombe Lane, Bathampton BA2 6UW", "WEBSITE": "https:\/\/bathamptoncsa.wordpress.com\/", "UPRN_NO": 100120046357.000000, "DESCRIPTIO": "Dry Arch Growers is a community-supported agricultural project that runs it's own box scheme in Bathampton. Dry Arch Growers welcome all volunteers and visitors and co-ordinate  regular work days and gardening sessions for members of the community", "EASTING": 378010.000000, "NORTHING": 165981.000000 }, "geometry": { "type": "Point", "coordinates": [ -2.317436399165644, 51.39243695467102, 48.748751388862729 ] } },
+{ "type": "Feature", "properties": { "ORGANISATI": "The Community Farm", "ADDRESS": "Denny Lane, Chew Magna, Bristol, Bath and North East Somerset BS40 8SZ", "WEBSITE": "http:\/\/www.thecommunityfarm.co.uk\/", "UPRN_NO": 10023108635.000000, "DESCRIPTIO": "The Community Farm is a community-owned social enterprise growing and selling organic food through a box delivery scheme. The farm welcomes visitors and provides regular volunteering opportunities and events", "EASTING": 357462.000000, "NORTHING": 161491.000000 }, "geometry": { "type": "Point", "coordinates": [ -2.612207135008944, 51.350894132510923, 49.043324403464794 ] } }
+]
+}
