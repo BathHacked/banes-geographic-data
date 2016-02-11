@@ -7,35 +7,35 @@
 - [Licencing & Attribution](#licencing--attribution)
 - [How To Use These Files](#how-to-use-these-files)
 - [Data Sources & Files](#data-sources--files)
-    - [Bath & North East Somerset Council](#bath--north-east-somerset-council)
-    - [Department for Communities & Local Government](#department-for-communities--local-government)
-        - [Green Belt boundaries for England 2013-2014](#green-belt-boundaries-for-england-2013-2014)
-    - [Department of Energy & Climate Change](#department-of-energy--climate-change)
-        - [Domestic Electricity Consumption](#domestic-electricity-consumption)
-        - [Domestic Gas Consumption](#domestic-gas-consumption)
-    - [Department for the Environment, Food & Rural Affairs](#department-for-the-environment-food--rural-affairs)
-        - [Strategic noise mapping 2012](#strategic-noise-mapping-2012)
-        - [Risk of Flooding from Rivers & Sea](#risk-of-flooding-from-rivers--sea)
-    - [Historic England](#historic-england)
-        - [Listed Buildings](#listed-buildings)
-    - [National Trust](#national-trust)
-        - [Bath Skyline Walk Route](#bath-skyline-walk-route)
-    - [Natural England](#natural-england)
-    - [Ofcom](#ofcom)
-        - [Broadband Survey June 2013](#broadband-survey-june-2013)
-    - [Office for Low Emission Vehicles](#office-for-low-emission-vehicles)
-        - [National Charge Point Registry](#national-charge-point-registry)
-    - [Office for National Statistics](#office-for-national-statistics)
-        - [Administrative Boundaries](#administrative-boundaries)
-        - [Census 2011](#census-2011)
-        - [Output Area Classifications 2011](#output-area-classifications-2011)
-        - [Indices of Mass Deprivation 2015](#indices-of-mass-deprivation-2015)
-    - [Ordnance Survey](#ordnance-survey)
-        - [Open Map Local](#open-map-local)
-        - [Code-Point Open](#code-point-open)
-        - [Terrain 50](#terrain-50)
-    - [Police](#police)
-        - [Street Level Crimes](#street-level-crimes)
+	- [Bath & North East Somerset Council](#bath--north-east-somerset-council)
+	- [Department for Communities & Local Government](#department-for-communities--local-government)
+		- [Green Belt boundaries for England 2013-2014](#green-belt-boundaries-for-england-2013-2014)
+	- [Department of Energy & Climate Change](#department-of-energy--climate-change)
+		- [Domestic Electricity Consumption](#domestic-electricity-consumption)
+		- [Domestic Gas Consumption](#domestic-gas-consumption)
+	- [Department for the Environment, Food & Rural Affairs](#department-for-the-environment-food--rural-affairs)
+		- [Strategic noise mapping 2012](#strategic-noise-mapping-2012)
+		- [Risk of Flooding from Rivers & Sea](#risk-of-flooding-from-rivers--sea)
+	- [Historic England](#historic-england)
+		- [Listed Buildings](#listed-buildings)
+	- [National Trust](#national-trust)
+		- [Bath Skyline Walk Route](#bath-skyline-walk-route)
+	- [Natural England](#natural-england)
+	- [Ofcom](#ofcom)
+		- [Broadband Survey June 2013](#broadband-survey-june-2013)
+	- [Office for Low Emission Vehicles](#office-for-low-emission-vehicles)
+		- [National Charge Point Registry](#national-charge-point-registry)
+	- [Office for National Statistics](#office-for-national-statistics)
+		- [Administrative Boundaries](#administrative-boundaries)
+		- [Census 2011](#census-2011)
+		- [Output Area Classifications 2011](#output-area-classifications-2011)
+		- [Indices of Mass Deprivation 2015](#indices-of-mass-deprivation-2015)
+	- [Ordnance Survey](#ordnance-survey)
+		- [Open Map Local](#open-map-local)
+		- [Code-Point Open](#code-point-open)
+		- [Terrain 50](#terrain-50)
+	- [Police](#police)
+		- [Street Level Crimes](#street-level-crimes)
 
 ## Introduction
 
@@ -111,6 +111,12 @@ For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.o
 | banes_landscharareas.geojson                  | Rural landscape character areas      |
 | banes_litter_bins.geojson                     | Litter bins survey                   |
 | banes_local_shops.geojson                     | Local shops                          |
+| banes_park_bbq_disposal.geojson               | BBQ disposal bins                    |
+| banes_park_dog_bin.geojson                    | Dog waste disposal bins              |
+| banes_park_litter_bin.geojson                 | Litter bins                          |
+| banes_park_picnic_tables.geojson              | Picnic tables                        |
+| banes_park_recycling_bin.geojson              | Recycling bins                       |
+| banes_park_seats_and_benches.geojson          | Seats & benches                      |
 | banes_prow_bath.geojson                       | Public rights of way in Bath         |
 | banes_prow_somerset.geojson                   | Public rights of way in Somerset     |
 | banes_river_rescue_cabinets.geojson           | River rescue cabinets                |
