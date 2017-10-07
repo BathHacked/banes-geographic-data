@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": "6811D5F7-4881-4380-8D4B-06C85CE17099", "classifica": "Local Road", "featcode": 15707 }, "geometry": { "type": "Point", "coordinates": [ -2.376278095661592, 51.353556738167654 ] } },
+{ "type": "Feature", "properties": { "id": "FADAA6FB-14B4-4855-9B2B-67AD04458382", "classifica": "A Road", "featcode": 15704 }, "geometry": { "type": "Point", "coordinates": [ -2.372576151636129, 51.357199257707379 ] } },
+{ "type": "Feature", "properties": { "id": "50122338-5A4A-4E09-849A-6E7BC00E8B86", "classifica": "A Road", "featcode": 15704 }, "geometry": { "type": "Point", "coordinates": [ -2.375770950604151, 51.358545629203391 ] } },
+{ "type": "Feature", "properties": { "id": "BA0BEDF2-ECFF-4137-BB8D-30B05829C967", "classifica": "Minor Road", "featcode": 15706 }, "geometry": { "type": "Point", "coordinates": [ -2.384546730023219, 51.361921761347226 ] } },
+{ "type": "Feature", "properties": { "id": "CDE80A8D-30A5-4139-B855-6D956D557556", "classifica": "Local Road", "featcode": 15707 }, "geometry": { "type": "Point", "coordinates": [ -2.356460952675091, 51.377387348436166 ] } },
+{ "type": "Feature", "properties": { "id": "1D706474-F59A-4A15-9235-787D81AE3C96", "classifica": "Local Road", "featcode": 15707 }, "geometry": { "type": "Point", "coordinates": [ -2.355859967534991, 51.378389232228983 ] } },
+{ "type": "Feature", "properties": { "id": "48F32EF3-964F-4180-A6CD-3EB21B221214", "classifica": "Primary Road", "featcode": 15703 }, "geometry": { "type": "Point", "coordinates": [ -2.351431751377389, 51.384089306970736 ] } },
+{ "type": "Feature", "properties": { "id": "D387AF3F-F5FD-47E6-A9ED-A8948999C39F", "classifica": "Restricted Local Access Road", "featcode": 15709 }, "geometry": { "type": "Point", "coordinates": [ -2.345017899610573, 51.386127371324434 ] } },
+{ "type": "Feature", "properties": { "id": "572FB6EB-A95E-4E61-BD0C-FDC35521AF47", "classifica": "Local Road", "featcode": 15707 }, "geometry": { "type": "Point", "coordinates": [ -2.38914357217776, 51.391929228953757 ] } },
+{ "type": "Feature", "properties": { "id": "397F7C26-5D07-4D54-9EB3-30F592FE9218", "classifica": "Minor Road", "featcode": 15706 }, "geometry": { "type": "Point", "coordinates": [ -2.395831948217202, 51.398165468630765 ] } },
+{ "type": "Feature", "properties": { "id": "B6D7D066-FB76-4756-9C41-7D8D14D06280", "classifica": "Minor Road", "featcode": 15706 }, "geometry": { "type": "Point", "coordinates": [ -2.516160980542422, 51.403737651153861 ] } },
+{ "type": "Feature", "properties": { "id": "A822FE5E-2119-414F-8A4B-9AD29048195A", "classifica": "A Road", "featcode": 15704 }, "geometry": { "type": "Point", "coordinates": [ -2.499511794859964, 51.417423406812716 ] } },
+{ "type": "Feature", "properties": { "id": "7AB96DAC-DF14-4E81-8946-FB1700C6CB39", "classifica": "B Road", "featcode": 15705 }, "geometry": { "type": "Point", "coordinates": [ -2.631047791430418, 51.367228946195482 ] } },
+{ "type": "Feature", "properties": { "id": "A4B1DE38-2F08-4317-841E-FF7FF91AA62F", "classifica": "A Road", "featcode": 15704 }, "geometry": { "type": "Point", "coordinates": [ -2.445906978977988, 51.291435389908457 ] } },
+{ "type": "Feature", "properties": { "id": "95812FF1-A4CF-4ED4-904E-2B96018501FE", "classifica": "A Road", "featcode": 15704 }, "geometry": { "type": "Point", "coordinates": [ -2.488469436185177, 51.29275570605256 ] } },
+{ "type": "Feature", "properties": { "id": "7875E87D-9E0B-490F-A5C7-61A23DA2F4A9", "classifica": "A Road", "featcode": 15704 }, "geometry": { "type": "Point", "coordinates": [ -2.493263822594887, 51.293218280998794 ] } },
+{ "type": "Feature", "properties": { "id": "1CBDD4A2-62EC-4211-9114-634DD9090352", "classifica": "A Road", "featcode": 15704 }, "geometry": { "type": "Point", "coordinates": [ -2.497476027075341, 51.293321842955862 ] } },
+{ "type": "Feature", "properties": { "id": "8AF365B3-A9B6-4B17-9551-CEAE5B351A85", "classifica": "B Road", "featcode": 15705 }, "geometry": { "type": "Point", "coordinates": [ -2.504828603974169, 51.307330051969245 ] } }
+]
+}

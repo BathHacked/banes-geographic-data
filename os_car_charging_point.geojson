@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": "D7D0C2F3-D568-4B12-9F31-D41792BCF5CD", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.384710000565463, 51.351380310302261 ] } },
+{ "type": "Feature", "properties": { "id": "BECD0F5F-1A4A-4044-9783-35BFB10C5189", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.384581051406105, 51.351380284365433 ] } },
+{ "type": "Feature", "properties": { "id": "396699AE-9945-4B6B-9FAB-FFA1DCB094FD", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.384102085193999, 51.351680292482598 ] } },
+{ "type": "Feature", "properties": { "id": "426B0C64-3BB5-41A8-981E-AA947904308F", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.37447603917747, 51.357659327494687 ] } },
+{ "type": "Feature", "properties": { "id": "F8E1196C-3E1C-4F13-BCBC-3B7C803F71D8", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.369065045892474, 51.38490734394955 ] } },
+{ "type": "Feature", "properties": { "id": "0AEE5DE1-0894-48FF-9B3E-FA5F083D1E41", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.366949029146882, 51.383611278563428 ] } },
+{ "type": "Feature", "properties": { "id": "7F7357E2-13F6-4750-8DFA-6F5EF7939A16", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.366811942540485, 51.383611258465763 ] } },
+{ "type": "Feature", "properties": { "id": "9C31114A-1B25-40EF-92AD-88C161A136E1", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.357639007246172, 51.379475313311602 ] } },
+{ "type": "Feature", "properties": { "id": "6D3F495D-BDAA-4B61-AF85-CB5229352BC2", "type": "3-pin Type G (BS 1363)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15620 }, "geometry": { "type": "Point", "coordinates": [ -2.324354984644736, 51.378860280889462 ] } },
+{ "type": "Feature", "properties": { "id": "00DE2F29-8677-4EE5-A959-CD917F0D3542", "type": "3-pin Type G (BS 1363)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15620 }, "geometry": { "type": "Point", "coordinates": [ -2.324273033371576, 51.379076308256955 ] } },
+{ "type": "Feature", "properties": { "id": "F7852D34-62F7-43E2-B8CE-BEC1662D215A", "type": "3-pin Type G (BS 1363)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15620 }, "geometry": { "type": "Point", "coordinates": [ -2.324079924539171, 51.37907630340581 ] } },
+{ "type": "Feature", "properties": { "id": "C329D2B6-DCDA-4066-9003-6038F411103E", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.478130063061031, 51.286117362088504 ] } },
+{ "type": "Feature", "properties": { "id": "2574A40B-2748-4A73-B12D-13DD1E3CC5E7", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.437390015463656, 51.378734332855181 ] } },
+{ "type": "Feature", "properties": { "id": "8EBAA3B3-2E6F-4CE1-8ABE-98A24062F5EE", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.38776593091677, 51.410269325696596 ] } },
+{ "type": "Feature", "properties": { "id": "4429523E-E0FA-4C3C-AB9A-8E90CE77ECC9", "type": "Type 2 Mennekes (IEC 62196)", "ratedvolt": "230", "chargemeth": "Single Phase AC", "featcode": 15624 }, "geometry": { "type": "Point", "coordinates": [ -2.387049908516717, 51.410933299283585 ] } }
+]
+}

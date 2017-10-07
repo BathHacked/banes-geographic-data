@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": "9F05FDD0-1074-4939-B1E7-422ED9A06FFA", "distname": "Keynsham", "classifica": "Railway Station", "featcode": 15422 }, "geometry": { "type": "Point", "coordinates": [ -2.495555804707153, 51.417957947010251 ] } },
+{ "type": "Feature", "properties": { "id": "807FCA2A-E178-4865-BA0F-B366C81B9AF0", "distname": "Midsomer Norton South", "classifica": "Railway Station", "featcode": 15422 }, "geometry": { "type": "Point", "coordinates": [ -2.482886151776394, 51.281092691443874 ] } },
+{ "type": "Feature", "properties": { "id": "B95A4AD5-9885-4DA5-82C9-C5459535B1B9", "distname": "Avon Riverside", "classifica": "Railway Station", "featcode": 15422 }, "geometry": { "type": "Point", "coordinates": [ -2.458589341796475, 51.416286771287467 ] } },
+{ "type": "Feature", "properties": { "id": "F8B53F97-13D4-497A-91A6-EC65DD7167F6", "distname": "Oldfield Park", "classifica": "Railway Station", "featcode": 15422 }, "geometry": { "type": "Point", "coordinates": [ -2.380382017456327, 51.379222821670041 ] } },
+{ "type": "Feature", "properties": { "id": "6F7FF9B3-E6F2-4396-8E35-081AA927E17E", "distname": "Bath Spa", "classifica": "Railway Station", "featcode": 15422 }, "geometry": { "type": "Point", "coordinates": [ -2.35683021187157, 51.377591683904434 ] } },
+{ "type": "Feature", "properties": { "id": "5E07C18B-CC1C-482C-B15E-2D484F9E25CC", "distname": "Freshford", "classifica": "Railway Station", "featcode": 15422 }, "geometry": { "type": "Point", "coordinates": [ -2.300731276725084, 51.341843341808442 ] } }
+]
+}
