@@ -9,6 +9,8 @@
 - [Data Sources & Files](#data-sources--files)
 	- [Bath & North East Somerset Council](#bath--north-east-somerset-council)
 		- [BANES INSPIRE](#banes-inspire)
+	- [Bath: Hacked](#bath--hacked)
+		- [Accessible Bath Project](#accessible-bath-project)
 	- [Department for Communities & Local Government](#department-for-communities--local-government)
 		- [Green Belt boundaries for England 2013-2014](#green-belt-boundaries-for-england-2013-2014)
 	- [Department of Energy & Climate Change](#department-of-energy--climate-change)
@@ -19,11 +21,13 @@
 		- [Risk of Flooding from Rivers & Sea](#risk-of-flooding-from-rivers--sea)
 	- [Historic England](#historic-england)
 		- [Listed Buildings](#listed-buildings)
+		- [Scheduled Monuments](#scheduled-monuments)
 	- [National Trust](#national-trust)
 		- [Bath Skyline Walk Route](#bath-skyline-walk-route)
 	- [Natural England](#natural-england)
 	- [Ofcom](#ofcom)
 		- [Broadband Survey June 2013](#broadband-survey-june-2013)
+		- [Connected Nations 2016](#connected-nations-2016)
 	- [Office for Low Emission Vehicles](#office-for-low-emission-vehicles)
 		- [National Charge Point Registry](#national-charge-point-registry)
 	- [Office for National Statistics](#office-for-national-statistics)
@@ -33,6 +37,7 @@
 		- [Indices of Mass Deprivation 2015](#indices-of-mass-deprivation-2015)
 	- [Ordnance Survey](#ordnance-survey)
 		- [Open Map Local](#open-map-local)
+		- [Open Greenspace](#open-greenspace)
 		- [Code-Point Open](#code-point-open)
 		- [Terrain 50](#terrain-50)
 	- [Police](#police)
@@ -159,6 +164,18 @@ European Directive 2007/2/EC is known as 'INSPIRE'. INSPIRE establishes an infra
 | banes_inspire_tpos.geojson                       | **INSPIRE Tree Preservation Orders**<br><small>A Tree Preservation Order is an order made by a local planning authority (LPA ) to protect specific trees, groups of trees or woodlands when it is deemed to be expedient in the interests of amenity. An Order prohibits the cutting down; topping; lopping; uprooting; wilful damage or wilful destruction of trees without the local planning authority's written consent.</small> |
 | banes_inspire_wraalp_2007.geojson                | **INSPIRE Waterside Recreation Activity Areas Local Plan 2007 Policy SR10**<br><small>Local Plan adopted 2007 Policy SR10. Defines the boundaries of areas where recreational development associated with the waterways may be acceptable.</small>                                                                                                                                                                                   |
 
+### Bath: Hacked
+
+#### Accessible Bath Project
+
+| Item        | Description                                                                                                                |
+|:------------|:---------------------------------------------------------------------------------------------------------------------------|
+| Files       | bh_accessible_bath.geojson                                                                                                                  |
+| Source      | Snapshot from [Bath: Hacked Accessible Bath Website](https://accessiblebath.org/)                                               |
+| Retrieved   | 2017-10-06                                                                                                                    |
+| Licence     | [ODbL](https://opendatacommons.org/licenses/odbl/)                                           |
+| Attribution | &copy; OpenStreetMap contributors |
+
 
 ### Department for Communities & Local Government
 
@@ -237,10 +254,20 @@ Domestic electricity consumption 2013 by postcode.
 
 | Item        | Description                                                                                                                                                                                                                                                                                                         |
 |:------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Files       | he_listed_buildings.geojson                                                                                                                                                                                                                                                                                         |
+| Files       | he_listed_buildings.geojson                                                                                                                                                                                                                                                                                   |
 | Source      | [Historic England](https://www.historicengland.org.uk/listing/the-list/data-downloads)                                                                                                                                                                                                                              |
-| Retrieved   | 2016-02-07                                                                                                                                                                                                                                                                                                          |
+| Retrieved   | 2017-10-05                                                                                                                                                                                                                                                                                                          |
 | Licence     | See he_listed_buildings_licence.pdf                                                                                                                                                                                                                                                                                 |
+| Attribution | &copy; Historic England [year].<br>Contains Ordnance Survey data &copy; Crown copyright and database right [year]<br>The Historic England GIS Data contained in this material was obtained on [date]. The most publicly available up to date Historic England GIS Data can be obtained from HistoricEngland.org.uk. |
+
+#### Scheduled Monuments
+
+| Item        | Description                                                                                                                                                                                                                                                                                                         |
+|:------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Files       | he_scheduled_monuments.geojson                                                                                                                                                                                                                                                                                   |
+| Source      | [Historic England](https://www.historicengland.org.uk/listing/the-list/data-downloads)                                                                                                                                                                                                                              |
+| Retrieved   | 2017-10-05                                                                                                                                                                                                                                                                                                          |
+| Licence     | See he_scheduled_monuments.pdf                                                                                                                                                                                                                                                                                 |
 | Attribution | &copy; Historic England [year].<br>Contains Ordnance Survey data &copy; Crown copyright and database right [year]<br>The Historic England GIS Data contained in this material was obtained on [date]. The most publicly available up to date Historic England GIS Data can be obtained from HistoricEngland.org.uk. |
 
 ### National Trust
@@ -262,7 +289,7 @@ Domestic electricity consumption 2013 by postcode.
 | Files       | See below                                                                                                                                                   |
 | Source      | [Environment Agency - Download Environmental Open Data](http://www.geostore.com/environment-agency/WebStore?xml=environment-agency/xml/ogcDataDownload.xml) |
 | Retrieved   | 2016-01-25                                                                                                                                                  |
-| Licence     | [OGL NE-OS](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/391764/OGL-NE-OS.pdf)                                                 |
+| Licence     | [OGL NE-OS](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/409507/NE-terms-of-use.pdf)                                           |
 | Attribution | &copy; Natural England copyright.<br>Contains Ordnance Survey data &copy; Crown copyright and database right \[year\]                                       |
 
 | File                                  | Description                                                                                                                                                                                                                                                                            |
@@ -285,11 +312,27 @@ Domestic electricity consumption 2013 by postcode.
 
 | Item        | Description                                                                                                                                                                                                                 |
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| File        | olev_ncpr_charge_points.geojson                                                                                                                                                                                             |
+| File        | ofcom_broadband_2013.geojson                                                                                                                                                                                                |
 | Source      | [Ofcom](http://data.gov.uk/dataset/broadband-coverage) via [Bath: Hacked Datastore](https://data.bathhacked.org/Economy/Banes-Broadband-Survey-June-2013/cnmf-qdpb)                                                         |
 | Retrieved   | 2015-08-21                                                                                                                                                                                                                  |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) ([OS Open Data](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html)) |
 | Attribution | Data provided by Ofcom<br>Contains OS data (c) Crown copyright \[year\]<br>Contains Royal Mail data (c) copyright and database right \[year\]                                                                               |
+
+#### Connected Nations 2016
+
+| Item        | Description                                                                                                                                                                                                                 |
+|:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Files       | See below                                                                                                                                                                                                    |
+| Source      | [Ofcom](https://www.ofcom.org.uk/research-and-data/multi-sector-research/infrastructure-research/connected-nations-2016/downloads)                                                                                          |
+| Retrieved   | 2017-03-10                                                                                                                                                                                                                  |
+| Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) ([OS Open Data](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html)) |
+| Attribution | Data provided by Ofcom<br>Contains OS data (c) Crown copyright \[year\]<br>Contains Royal Mail data (c) copyright and database right \[year\]                                                                               |
+
+| File                  | Description                            |
+|:----------------------|:---------------------------------------|
+| ofcom_bb_pc_2016.csv  | Full name of fields  |
+| ofcom_bb_pc_2016.geojson | Broadband Survey June 2016 |
+
 
 ### Office for Low Emission Vehicles
 
@@ -379,7 +422,7 @@ Statistics on relative deprivation in small areas in BANES. See `ons_imd_2015_fi
 |:------------|:----------------------------------------------------------------------------------------------------------------|
 | Files       | See below                                                                                                       |
 | Source      | [OS Open Map - Local](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-map-local.html) |
-| Retrieved   | 2016-01-21                                                                                                      |
+| Retrieved   | 2017-10-05                                                                                                      |
 | Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                                    |
 | Attribution | Contains OS data &copy; Crown copyright \[and database right\] \[year\]                                         |
 
@@ -387,17 +430,36 @@ Statistics on relative deprivation in small areas in BANES. See `ons_imd_2015_fi
 |:-------------------------------|:------------------------------------|
 | os_boundary.geojson            | Bath & North East Somerset boundary |
 | os_buildings.geojson           | Buildings                           |
+| os_car_charging_point.geojson | Car charging points |
 | os_electricity_lines.geojson   | Electricity lines                   |
 | os_functional_sites.geojson    | Functional sites                    |
 | os_important_buildings.geojson | Important buildings                 |
-| os_parishes.geojson            | Parishes                            |
+| os_parishes.geojson            | Parishes (retrieved 2016-01-21) |
 | os_place_names.geojson         | Place names                         |
+| os_rail_station.geojson | Rail station |
 | os_rail_track.geojson          | Rail track                          |
+| os_rail_tunnel.geojson | Rail tunnel |
 | os_roads.geojson               | Roads                               |
-| os_settlements.geojson         | Settlements                         |
+| os_road_roundabout.geojson | Road roundabout |
+| os_settlements.geojson         | Settlements  (retrieved 2016-01-21) |
 | os_surface_water_area.geojson  | Surface water polygons              |
 | os_surface_water_line.geojson  | Surface water lines                 |
 | os_woodland.geojson            | Woodland                            |
+
+#### Open Greenspace
+
+| Item        | Description                                                                                                     |
+|:------------|:----------------------------------------------------------------------------------------------------------------|
+| Files       | See below                                                                                                       |
+| Source      | [OS Open Greenspace](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-greenspace.html) |
+| Retrieved   | 2017-10-05                                                                                                      |
+| Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                                    |
+| Attribution | Contains OS data &copy; Crown copyright \[and database right\] \[year\]                                         |
+
+| File                           | Description                         |
+|:-------------------------------|:------------------------------------|
+| os_greenspace_access_point.geojson | Greenspace access points |
+| os_greenspace_site.geojson | Greenspace sites |
 
 #### Code-Point Open
 
@@ -407,7 +469,7 @@ Postcode centroids within BANES, with administrative area lookup.
 |:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | File        | os_postcodes.geojson                                                                                                                                                                                                                                |
 | Source      | [Code-Point Open](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html)                                                                                                                                           |
-| Retrieved   | 2016-01-21                                                                                                                                                                                                                                          |
+| Retrieved   | 2017-10-05                                                                                                                                                                                                                                          |
 | Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                                                                                                                                                                        |
 | Attribution | Contains OS data &copy; Crown copyright \[and database right\] \[year\]<br>Contains Royal Mail data &copy; Royal Mail copyright and Database right \[year\]<br>Contains National Statistics data &copy; Crown copyright and database right \[year\] |
 
@@ -419,7 +481,7 @@ Terrain contours with post spacing of 50m	& vertical interval of 10m.
 |:------------|:---------------------------------------------------------------------------------------------------|
 | File        | os_terrain50.geojson                                                                               |
 | Source      | [OS Terrain 50](https://www.ordnancesurvey.co.uk/business-and-government/products/terrain-50.html) |
-| Retrieved   | 2015-12-11                                                                                         |
+| Retrieved   | 2017-10-05                                                                                         |
 | Licence     | [OS OpenData](http://os.uk/opendata/licence)                                                       |
 | Attribution | Contains OS data &copy; Crown copyright \[and database right\] \[year\]                            |
 
@@ -431,6 +493,6 @@ Terrain contours with post spacing of 50m	& vertical interval of 10m.
 |:------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Files       | police_crimes.geojson                                                                                                                                                      |
 | Source      | [Police API](https://data.police.uk/docs/) via [BANES Street Level Crimes Dataset](https://data.bathhacked.org/Government-and-Society/BANES-Street-Level-Crimes/cujy-zqnk) |
-| Retrieved   | 2016-01-25                                                                                                                                                                 |
+| Retrieved   | 2017-10-05                                                                                                                                                                 |
 | Licence     | [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)                                                                                           |
 | Attribution | Data provided by data.police.uk                                                                                                                                            |
