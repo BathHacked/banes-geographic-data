@@ -1,0 +1,38 @@
+id,ID
+pcnws,"Postcode with spaces removed, such as SE19HA"
+pc,"Postcode with single space, such as SE1 9HA"
+pca,"Postcode area, such as SE"
+sfbb_pc,Percentage of premises that have Superfast Broadband (30Mbit/s to less than 300Mbit/s) coverage
+ufbb_pc,Percentage of premises that have Ultrafast Broadband (300Mbit/s or greater) coverage
+nga_pc,"Percentage of premises that have coverage from either ADSL, FTTC, Cable or FTTP services (Next Generation Access)"
+below_2mbp,Percentage of premises that do not have access to services below 2Mbit/s
+below_5mbp,Percentage of premises that do not have access to services below 5Mbit/s
+below_10mb,Percentage of premises that do not have access to services below 10Mbit/s
+below_30mb,Percentage of premises that do not have access to services below 30Mbit/s
+med_dl_mbp,Median download speed (in Mbit/s) of all connections
+avg_dl_mbp,Average download speed (in Mbit/s) of all connections
+min_dl_mbp,Minimum download speed (in Mbit/s) of all connections
+max_dl_mbp,Maximum download speed (in Mbit/s) of all connections
+avg_dl_bel,Average download speed (in Mbit/s) of all connections that deliver speed less than 10Mbit/s
+avg_dl_bas,Average download speed (in Mbit/s) of all connections that deliver speed less than 30Mbit/s
+avg_dl_sfb,Average download speed (in Mbit/s) of all connections that deliver speeds of 30Mbit/s to less than 300Mbit/s
+avg_dl_ufb,Average download speed (in Mbit/s) of all connections that deliver speeds of 300Mbit/s or greater
+med_ul_mbp,Median upload speed (in Mbit/s) of all connections Average upload speed (in Mbit/s) of all connections
+avg_ul_mbp,Average upload speed (in Mbit/s) of all connections
+min_ul_mbp,Minimum upload speed (in Mbit/s) of all connections
+max_ul_mbp,Maximum upload speed (in Mbit/s) of all connections
+avg_ul_bel,Average upload speed (in Mbit/s) of all connections that deliver speed less than 10Mbit/s
+avg_ul_bas,Average upload speed (in Mbit/s) of all connections that deliver speed less than 30Mbit/s
+avg_ul_sfb,Average upload speed (in Mbit/s) of all connections that deliver speeds of 30Mbit/s to less than 300Mbit/s
+avg_ul_ufb,Average upload speed (in Mbit/s) of all connections that deliver speeds of 300Mbit/s or greater
+lines_belo,Count of connections that have average measured speeds below 2Mbit/s
+lines_2_5,Count of connections that have average measured speeds of 2Mbit/s or greater and below 5Mbit/s
+lines_5_10,Count of connections that have average measured speeds of 5Mbit/s or greater and below 10Mbit/s
+lines_10_3,Count of connections that have average measured speeds of 10Mbit/s or greater and below 30Mbit/s
+lines_abov,Count of connections that have average measured speeds of 30Mbit/s or greater
+lines_ab_1,Count of connections that have average measured speeds of 300Mbit/s or greater
+avg_usage,"Average data usage, download and upload, in GB of all connections"
+avg_usage_,"Average data usage, download and upload, in GB of all connections that deliver speed less than 10Mbit/s"
+avg_usag_1,"Average data usage, download and upload, in GB of all connections that deliver speed less than 30Mbit/s"
+avg_usag_2,"Average data usage, download and upload, in GB of all connections that deliver speeds of 30Mbit/s or greater"
+avg_usag_3,"Average data usage, download and upload, in GB of all connections that deliver speeds of 300Mbit/s or greater"
