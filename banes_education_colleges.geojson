@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "school_nam": "City Of Bath College", "street": "Avon Street", "locality": "Abbey", "postcode": "BA1 1UP", "date_creat": null, "created_by": null, "date_edite": null, "edited_by": null }, "geometry": { "type": "Point", "coordinates": [ -2.362652034471765, 51.379717313299565 ] } },
+{ "type": "Feature", "properties": { "school_nam": "Bath Academy", "street": "Queen Square", "locality": "Abbey", "postcode": "BA1 2HX", "date_creat": null, "created_by": null, "date_edite": null, "edited_by": null }, "geometry": { "type": "Point", "coordinates": [ -2.363389778488256, 51.383968135107288 ] } },
+{ "type": "Feature", "properties": { "school_nam": "Norland College", "street": "York Place, London", "locality": "Walcot", "postcode": "BA1 6AE", "date_creat": null, "created_by": null, "date_edite": null, "edited_by": null }, "geometry": { "type": "Point", "coordinates": [ -2.352283284789243, 51.391618000266845 ] } },
+{ "type": "Feature", "properties": { "school_nam": "Rusland College Ltd", "street": "Solsbury Way", "locality": "Larkhall", "postcode": "BA1 6HH", "date_creat": null, "created_by": null, "date_edite": null, "edited_by": null }, "geometry": { "type": "Point", "coordinates": [ -2.359482239184228, 51.396937172647803 ] } },
+{ "type": "Feature", "properties": { "school_nam": "Prior Park College", "street": "Ralph Allen Drive", "locality": "Combe Do", "postcode": "BA2 5AH", "date_creat": null, "created_by": null, "date_edite": null, "edited_by": null }, "geometry": { "type": "Point", "coordinates": [ -2.343083489990811, 51.364526414288413 ] } },
+{ "type": "Feature", "properties": { "school_nam": "Norton Radstock College", "street": "Charlton Road", "locality": "Norton H", "postcode": "BA3 4AD", "date_creat": null, "created_by": null, "date_edite": null, "edited_by": null }, "geometry": { "type": "Point", "coordinates": [ -2.480959891808454, 51.280804105213946 ] } }
+]
+}

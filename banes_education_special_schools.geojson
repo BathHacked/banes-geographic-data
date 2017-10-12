@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "school_nam": "Fosse Way School", "street": "Longfellow Road", "locality": "Westfield", "postcode": "BA3 3AL", "date_creat": null, "created_by": null, "date_edite": null, "edited_by": null }, "geometry": { "type": "Point", "coordinates": [ -2.471949572801852, 51.282980780643577 ] } },
+{ "type": "Feature", "properties": { "school_nam": "Aspire Academy", "street": "Frome Road", "locality": "Odd Down", "postcode": "BA2 5RF", "date_creat": null, "created_by": null, "date_edite": null, "edited_by": null }, "geometry": { "type": "Point", "coordinates": [ -2.371094736522668, 51.355898776063704 ] } },
+{ "type": "Feature", "properties": { "school_nam": "Three Ways School", "street": "Frome Road", "locality": "Odd Down", "postcode": "BA2 5RF", "date_creat": null, "created_by": null, "date_edite": null, "edited_by": null }, "geometry": { "type": "Point", "coordinates": [ -2.370076246550218, 51.356036927071202 ] } }
+]
+}
