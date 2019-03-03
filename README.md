@@ -107,7 +107,7 @@ For manipulating the files we strongly recommend use of [QGIS](http://www.qgis.o
 | banes_education_universities.geojson          | Universities (Retrieved 2017-10)            |
 | banes_defibrillators.geojson                  | Defibrillators (Retrieved 2017-10)                   |
 | banes_gp_surgeries.geojson                    | GP surgeries                         |
-| banes_green_belt.geojson                      | Green belt land                      |
+| banes_green_belt.geojson                      | Green belt land (Historic data from 2007)                      |
 | banes_grit_bins.geojson                       | Grit bins (Retrieved 2017-10)                            |
 | banes_gss_allotments.geojson                  | Allotments                           |
 | banes_gss_amenity_grass.geojson               | Amenity grass areas                  |
