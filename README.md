@@ -377,6 +377,7 @@ Publicly Accessible PiV (plugged-in vehicle) Charge Points within the UK.
 | ons_ward_2011.geojson | 2011 Wards                             |
 | ons_wmc_2014.geojson  | 2014 Westminster Constituencies        |
 | ons_wz_2011.geojson   | 2011 Workplace Zones                   |
+| banes_boundary_review_2018_final_wards_simp.geojson | 2018 Wards (simplified polygons) |
 
 #### Census 2011
 
